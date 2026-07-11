@@ -1,7 +1,7 @@
 # HR Analytics Dashboard
 
 ## Dashboard Preview
-![Amazon Dashboard](HR_ANALYTICS_1.png)
+![HR Dashboard](HR_ANALYTICS_1.png)
 
 ## Tools Used
 
