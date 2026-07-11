@@ -1,5 +1,10 @@
 # Uber Data Analysis Dashboard
 
+## Dashboard Preview
+![Uber Dashboard](uber_1.png)
+![Uber Dashboard](uber_2.png)
+
+
 ## Tools Used
 
 - Power BI
