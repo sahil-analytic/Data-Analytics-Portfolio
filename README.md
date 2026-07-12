@@ -6,13 +6,39 @@
 
 Passionate Data Analyst with hands-on experience in data cleaning, SQL analysis, dashboard development, and business intelligence projects. Skilled at transforming raw data into meaningful insights using Power BI, Python, SQL, and Excel. Experienced in building end-to-end analytics projects involving data preprocessing, KPI reporting, interactive dashboards, and business performance analysis.
 
-### Building end-to-end data analytics solutions using SQL, Python, Power BI, and Excel to transform raw data into actionable business insights.
+## Building end-to-end data analytics solutions using SQL, Python, Power BI, and Excel to transform raw data into actionable business insights.
 ---
 
 # 🚀 Professional Summary
 
 I specialize in analyzing business data, creating interactive dashboards, cleaning large datasets, and generating actionable insights to support data-driven decision making. My portfolio demonstrates practical experience across retail sales, HR analytics, and transportation datasets using modern analytics tools.
 
+## 🚀 Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel. Skilled in data cleaning, exploratory data analysis, dashboard development, KPI reporting, and business intelligence. Experienced in delivering end-to-end analytics projects using real-world datasets across retail sales, HR analytics, and transportation domains.
+
+## 🛠 Technical Skills
+
+### Analytics
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Intelligence
+- KPI Reporting
+
+### Programming
+- SQL (MySQL)
+- Python
+- Pandas
+- NumPy
+
+### Visualization
+- Power BI
+- Microsoft Excel
+- DAX (Basic)
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- MySQL Workbench
 ---
 
 # 🛠 Technical Skills
