@@ -29,7 +29,12 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 - KPI Cards
 - Monthly Sales Trend
 
-- | Project | Description | Status |
+
+# 📂 Portfolio Projects
+
+## 📊 Power BI Projects
+
+| Project | Description | Status |
 |---------|-------------|:------:|
 | Uber Data Analysis Dashboard | Business insights from Uber trip data | ✅ Completed |
 | HR Analytics Dashboard | Employee attrition & workforce analysis | ✅ Completed |
