@@ -148,4 +148,4 @@ I specialize in analyzing business data, creating interactive dashboards, cleani
 
 🐙 GitHub: https://github.com/sahil-analytic
 
-💼 LinkedIn: linkedin.com/in/sahil-katoch-48342a420
+💼 LinkedIn: https://www.linkedin.com/in/sahil-katoch-48342a420
