@@ -4,9 +4,9 @@
 
 ### Data Analyst | Power BI | SQL | Python | Excel
 
-##### Passionate Data Analyst with hands-on experience in data cleaning, SQL analysis, dashboard development, and business intelligence projects. Skilled at transforming raw data into meaningful insights using Power BI, Python, SQL, and Excel. Experienced in building end-to-end analytics projects involving data preprocessing, KPI reporting, interactive dashboards, and business performance analysis.
+ Passionate Data Analyst with hands-on experience in data cleaning, SQL analysis, dashboard development, and business intelligence projects. Skilled at transforming raw data into meaningful insights using Power BI, Python, SQL, and Excel. Experienced in building end-to-end analytics projects involving data preprocessing, KPI reporting, interactive dashboards, and business performance analysis.
 
-## Building end-to-end data analytics solutions using SQL, Python, Power BI, and Excel to transform raw data into actionable business insights.
+### Building end-to-end data analytics solutions using SQL, Python, Power BI, and Excel to transform raw data into actionable business insights.
 ---
 
 # 🚀 Professional Summary
