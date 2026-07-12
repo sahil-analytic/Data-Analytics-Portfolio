@@ -13,7 +13,7 @@
 
 I specialize in analyzing business data, creating interactive dashboards, cleaning large datasets, and generating actionable insights to support data-driven decision making. My portfolio demonstrates practical experience across retail sales, HR analytics, and transportation datasets using modern analytics tools.
 
-## 🚀 Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel. Skilled in data cleaning, exploratory data analysis, dashboard development, KPI reporting, and business intelligence. Experienced in delivering end-to-end analytics projects using real-world datasets across retail sales, HR analytics, and transportation domains.
+### 🚀 Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel. Skilled in data cleaning, exploratory data analysis, dashboard development, KPI reporting, and business intelligence. Experienced in delivering end-to-end analytics projects using real-world datasets across retail sales, HR analytics, and transportation domains.
 
 ## 🛠 Technical Skills
 
