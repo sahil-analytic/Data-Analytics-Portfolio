@@ -1,34 +1,52 @@
-# Data-Analytics-Portfolio
-Data Analytics Portfolio | Power BI | SQL | Python | Excel
+# 📊 Data Analytics Portfolio
+
 # 👋 Hi, I'm Sahil Katoch
 
-## 📊 Data Analyst | Power BI | SQL | Python | Excel
+### Data Analyst | Power BI | SQL | Python | Excel
 
-I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights through dashboards and data visualization.
+Passionate Data Analyst with hands-on experience in data cleaning, SQL analysis, dashboard development, and business intelligence projects. Skilled at transforming raw data into meaningful insights using Power BI, Python, SQL, and Excel. Experienced in building end-to-end analytics projects involving data preprocessing, KPI reporting, interactive dashboards, and business performance analysis.
 
 ---
 
-## 🛠 Skills
+# 🚀 Professional Summary
 
-- Power BI
-- SQL
-- Python (Pandas, NumPy, Matplotlib)
-- Microsoft Excel
+I specialize in analyzing business data, creating interactive dashboards, cleaning large datasets, and generating actionable insights to support data-driven decision making. My portfolio demonstrates practical experience across retail sales, HR analytics, and transportation datasets using modern analytics tools.
+
+---
+
+# 🛠 Technical Skills
+
+### Data Analytics
 - Data Cleaning
-- Data Visualization
-- Statistics
-- Business Analytics
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Business Intelligence
+- KPI Reporting
+- Dashboard Development
+
+### Programming & Databases
+- SQL (MySQL)
+- Python
+- Pandas
+- NumPy
+
+### Data Visualization
+- Power BI
+- Microsoft Excel
+- Charts
+- Pivot Tables
+- Slicers
+- DAX (Basic)
+
+### Tools
+- Power BI
+- MySQL Workbench
+- Jupyter Notebook
+- Git
+- GitHub
+- Microsoft Excel
 
 ---
-
-## 📁 Projects
-
-### 🛒 Amazon Sales Dashboard
-- Built interactive dashboard using Power BI
-- Sales, Orders, Category Analysis
-- KPI Cards
-- Monthly Sales Trend
-
 
 # 📂 Portfolio Projects
 
@@ -36,10 +54,9 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 
 | Project | Description | Status |
 |---------|-------------|:------:|
-| Uber Data Analysis Dashboard | Business insights from Uber trip data | ✅ Completed |
-| HR Analytics Dashboard | Employee attrition & workforce analysis | ✅ Completed |
-| Amazon Sales Dashboard | Sales performance and product insights | ✅ Completed |
-  
+| Uber Data Analysis Dashboard | Trip analysis, peak hours, travel insights and KPI reporting | ✅ Completed |
+| HR Analytics Dashboard | Employee attrition, department performance and workforce analysis | ✅ Completed |
+| Amazon Sales Dashboard | Sales trends, category analysis, regional performance and KPIs | ✅ Completed |
 
 ---
 
@@ -48,31 +65,58 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 | Project | Description | Status |
 |---------|-------------|:------:|
 | Uber Data Cleaning | Data preprocessing using Pandas | ✅ Completed |
-| HR Analytics Data Cleaning | Data cleaning & preprocessing | ✅ Completed |
-| Amazon Data Cleaning | Product & sales data cleaning | ✅ Completed |
-| Blinkit Data Cleaning | Grocery dataset preprocessing | ✅ Completed |
+| HR Analytics Data Cleaning | Missing values, duplicates and preprocessing | ✅ Completed |
+| Amazon Data Cleaning | Product and sales data cleaning | ✅ Completed |
+| Blinkit Data Cleaning | Grocery sales dataset preprocessing | ✅ Completed |
 
 ---
 
-## 🗄️ SQL Projects
+## 🗄 SQL Projects
 
 | Project | Description | Status |
 |---------|-------------|:------:|
-| Uber SQL Analysis | SQL queries for business insights | ✅ In Progress |
-
-### 👨‍💼 HR Analytics Dashboard
-- Employee Attrition Analysis
-- Department Analysis
-- Gender Analysis
-- Salary Insights
-
-### 🚖 Uber Data Analysis
-- Trip Analysis
-- Revenue Analysis
-- Peak Hour Analysis
+| Uber SQL Analysis | Business SQL queries and reporting | ✅ Completed |
+| HR Analytics SQL | Employee analytics using SQL | 🚧 In Progress |
+| Amazon Sales SQL | Sales analytics using SQL | 🚧 In Progress |
 
 ---
 
-## 📫 Contact
+# 💼 Project Highlights
+
+### 🛒 Amazon Sales Dashboard
+- Built an interactive executive sales dashboard
+- Analyzed category-wise and regional sales performance
+- Designed KPI Cards and trend analysis
+- Created dynamic slicers and visual reports
+
+### 👨‍💼 HR Analytics Dashboard
+- Employee Attrition Analysis
+- Department & Job Role Analysis
+- Gender & Age Insights
+- Salary & Workforce Analytics
+
+### 🚖 Uber Data Analysis Dashboard
+- Trip Trend Analysis
+- Peak Hour Analysis
+- Location-wise Trip Insights
+- Distance & Business Category Analysis
+
+---
+
+# 🏆 Core Competencies
+
+- Data Cleaning
+- Dashboard Design
+- Business Reporting
+- SQL Query Writing
+- Data Visualization
+- Analytical Thinking
+- Problem Solving
+
+---
+
+# 📫 Contact
 
 📧 Email: randhawaayush21@gmail.com
+
+🐙 GitHub: https://github.com/sahil-analytic
