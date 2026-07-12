@@ -147,3 +147,5 @@ I specialize in analyzing business data, creating interactive dashboards, cleani
 📧 Email: randhawaayush21@gmail.com
 
 🐙 GitHub: https://github.com/sahil-analytic
+
+💼 LinkedIn: linkedin.com/in/sahil-katoch-48342a420
